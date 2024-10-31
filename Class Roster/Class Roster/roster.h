@@ -19,7 +19,7 @@ public:
     void printAll();
     void printByDegreeProgram(DegreeProgram dp);
     void printInvalidEmails();
-    void printAverageDays ( );
+    void printAverageDays (string IDnum);
     bool removeStudentByID(string IDnum);
 };
 
